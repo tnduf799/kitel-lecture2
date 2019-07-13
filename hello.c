@@ -1,5 +1,5 @@
 #include <stdio.h>
 main(void)
 {
-    printf("임은딘 바보");
+    printf("임은딘 바보.");
 }
